@@ -44,9 +44,23 @@ Setelah menghitung nilai outliers pada variabel numeric didapatkan ada beberapa 
 <p> Berdasarkan hitungan korelasi antar numerik didapatkan bahwa korelasi terbesar di dataset ini adalah pasangan oldpeak dengan num yaitu diangka 0.42 . Namun, angka 0,42 termasuk dalam kategori korelasi sedang bukan korelasi yang kuat. Hubungan ini berarti kedua variabel memiliki keterkaitan tetapi tidak terlalu erat.</p>
 
 <h2>4. Visualisasi Data</h2>
-<p>Histogram dari data numeric</p>
+<h3>Histogram dari data numeric</h3>
 <img src="https://github.com/user-attachments/assets/78de800d-cfe6-42ec-9fa0-b75c57b75fbb"/>
+<img src="https://github.com/user-attachments/assets/a40b67b6-6b3c-457c-ac14-bbf3ce671fc2" width=500/>
+<img src="https://github.com/user-attachments/assets/0261663f-03de-4bcd-87d1-be55b5036445"  width=500/>
+<img src="https://github.com/user-attachments/assets/fbfeeca1-c13e-49d0-b592-e58f3d3e0deb"  width=500/>
+<img src="https://github.com/user-attachments/assets/4d912229-11dc-4ce2-bfaf-2b0553b81999"  width=500/>
 
+<h3>Boxplot dari data numeric</h3>
 <img src="https://github.com/user-attachments/assets/fe559360-bd42-4d84-81e1-4836bb54303f"/>
+
+<h3>Scatter Plot</h3>
+<img src="https://github.com/user-attachments/assets/baa36091-0647-403e-aedb-b284836e251c"/>
+<img src="https://github.com/user-attachments/assets/afd184d3-098e-4bdc-819f-f08ff3b80661"/>
+
+<h2> 5. Kesimpulan</h2>
+<p> Berdasarkan hasil dari analisis, heart disease lebih banyak terjadi pada laki laki dengan usia 50 keatas, dengan lokasi pengumpulan data terbanyak yaitu dari VA Long Beach. Berdasarkan hasil dari skew dan kurtosis didapatkan bawah nilai nya jauh dari o sehingga dapat disebut sebagai distribusi tidak normal. Pada data didalam dataset ini memiliki korelasi tertinggi di angka 0.42 tapi ini tidak termasuk ke korelasi yang tinggi. Sehingga dapat dinyatakan bahwa dari korelasi ini hubungan kedua variabel memiliki keterkaitan namun tidak terlalu erat. Berdasarkan hasil pengecekan dataset ini juga memilki missing value pada beberapa datanya. Dataset ini juga memiliki outliers yang dapat kita lihat di visualisasi data pada bagian boxplot ataupun melalui perhitungan IQR yang ada di jupyter, Outliers terbesar didataset ini berada di data chol.  </p>
+
+
 
 
