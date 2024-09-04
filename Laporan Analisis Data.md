@@ -42,3 +42,11 @@ Setelah menghitung nilai outliers pada variabel numeric didapatkan ada beberapa 
 <p> Pada data ca (jumlah pembuluh darah utama yang terlihat) adalah 0.68, dengan modus dan median memiliki nilai 0.0 . Hal ini menunjukkan bahwa mayoritas individu tidak memiliki pembuluh darah yang terlihat melalui fluoroskopi. Ada sedikit variasi dalam data ini dengan standar deviasi 0.94.</p>
 <p> Pada data num rata-ratanya adalah 0.9957 , dengan median sampel berada di 1. Dengan data terbanyak di 0 ini menunjukkan bahwa tingkat penyakit nya tidak terlalu parah.</p>
 <p> Berdasarkan hitungan korelasi antar numerik didapatkan bahwa korelasi terbesar di dataset ini adalah pasangan oldpeak dengan num yaitu diangka 0.42 . Namun, angka 0,42 termasuk dalam kategori korelasi sedang bukan korelasi yang kuat. Hubungan ini berarti kedua variabel memiliki keterkaitan tetapi tidak terlalu erat.</p>
+
+<h2>4. Visualisasi Data</h2>
+<p>Histogram dari data numeric</p>
+<img src="https://github.com/user-attachments/assets/78de800d-cfe6-42ec-9fa0-b75c57b75fbb"/>
+
+<img src="https://github.com/user-attachments/assets/fe559360-bd42-4d84-81e1-4836bb54303f"/>
+
+
