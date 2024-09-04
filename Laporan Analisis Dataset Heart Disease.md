@@ -1,6 +1,6 @@
 <h1> LAPORAN EKSPLORASI DAN ANALISIS DATA </h1>
 <h2>1. Deskripsi Dataset</h2>
-<p> Dataset heart disease merupakan kumpukan data pasien penyakit jantung. Dataset heart disease terdiri dari beberapa kolom dan baris. Dataset ini berisi mengenai informasi yang terdiri dari data age, sex, dataset, cp, trestbps, chol, fbs, restecg, thalch, exang, oldpeak, slope, ca, thal, num. </p>
+<p> Dataset heart disease merupakan kumpulan data pasien penyakit jantung. Dataset heart disease terdiri dari beberapa kolom dan baris. Dataset ini berisi mengenai informasi yang terdiri dari data age, sex, dataset, cp, trestbps, chol, fbs, restecg, thalch, exang, oldpeak, slope, ca, thal, num. </p>
 
 Identifikasi data: 
 1. age : Usia pasien <br/>
